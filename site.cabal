@@ -2,7 +2,7 @@ name:                site
 version:             0.1.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/taksuyu/site#readme
+homepage:            https://github.com/sodimm-me/site#readme
 license:             BSD3
 license-file:        LICENSE
 author:              Michael Borden
